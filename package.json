@@ -7,7 +7,11 @@
     "name": "Eyepop",
     "email": "eyepop.ratvorace@gmail.com",
     "url": "none"
-},
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Zeyepop/nodebb-theme-tns-test"
+  },
   "keywords": [
 
   ],
