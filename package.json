@@ -1,8 +1,13 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-tns-test",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "A theme for my website forum",
   "main": "theme.less",
+  "author": {
+    "name": "Eyepop",
+    "email": "eyepop.ratvorace@gmail.com",
+    "url": "none"
+},
   "keywords": [
 
   ],
